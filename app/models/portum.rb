@@ -1,0 +1,2 @@
+class Portum < ApplicationRecord
+end

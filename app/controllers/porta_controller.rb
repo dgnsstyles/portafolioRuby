@@ -1,0 +1,2 @@
+class PortaController < ApplicationController
+end
